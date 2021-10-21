@@ -33,7 +33,7 @@
  - 5 - Clique no botão ***REGISTER A NEW APPLICATION***
     - 5.1 - Preeencha os campos abaixo e clique no Botão ***Register application*** : 
     <div>
-      <img src=""/>
+      <img src="https://github.com/brunoeduardoferreira/nlw-heat-2021/blob/main/Assets/RegisterGitHubOauth.png"/>
     </div>
  - 6 - Após clicar no botão será necessário copiar a chave Client ID e gerar a Chave Client Secrets que deveram ser copiadas para o arquivo ***.env*** seguindo o seguinte formato : 
 
